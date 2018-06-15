@@ -1,6 +1,6 @@
 # reddit-clone
 
-> WIP A Reddit Clone
+> WIP A Reddit Clone to be continued
 
 ## Build Setup
 
